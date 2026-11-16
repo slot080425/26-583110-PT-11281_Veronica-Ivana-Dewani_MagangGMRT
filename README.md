@@ -15,8 +15,8 @@ Program akan meminta pengguna memasukkan sudut rotasi (dalam derajat) untuk keti
 # Tabel Fitur
 | Status | Fitur
 | :---: | :--- 
-| ✅ | Tugas Wajib
-| ✅ | Nilai Tambah (2-6)
+| v | Tugas Wajib
+| v | Nilai Tambah (2-6)
 
 
 # Cara Penggunaan (How to Run)
